@@ -5,7 +5,7 @@ html {
 
 body {
   background-color: rgb(148, 253, 253);
-  color: #2ed4d4;
+  color: #239292;
 }
 
 ul {
@@ -51,6 +51,7 @@ li a:hover {
 .img-fluid{
   width: 300px;
   height: 300px;
+  padding: 2%;
 }
 
 .flex-container {
@@ -73,4 +74,11 @@ h2{
 #icon{
   display: flex;
   justify-content: center;
+}
+
+
+.wire{
+  max-width: 750px;
+  max-height: 300px;
+  padding: 2%; 
 }
